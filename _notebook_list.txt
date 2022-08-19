@@ -1,0 +1,14 @@
+master/Documentation_basics.ipynb
+master/Flask_getting_started.ipynb
+master/Gridding_map_data.ipynb
+master/Images.ipynb
+master/Intro_to_Python.ipynb
+master/Object_oriented_programming.ipynb
+master/Object_oriented_programming_practice.ipynb
+master/Object_oriented_programming_practice_Well.ipynb
+master/Quick_xarray_demo.ipynb
+master/Read_and_write_LAS.ipynb
+master/Reading_data_from_files.ipynb
+master/Read_SEG-Y_with_segyio.ipynb
+master/Testing_basics.ipynb
+master/Writing_data_to_files_or_databases.ipynb

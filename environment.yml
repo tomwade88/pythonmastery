@@ -1,0 +1,23 @@
+name: geocomp
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.7
+- matplotlib
+- scipy
+- jupyter
+- ipykernel
+- ipywidgets
+- ipyparallel
+- scikit-learn
+- pandas
+- seaborn
+- pint
+- cartopy
+- xarray
+- requests
+- pip:
+  - bruges
+  - welly
+  - segyio
